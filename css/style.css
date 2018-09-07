@@ -35,7 +35,7 @@
 }
 
 #parallax{
-    background-image: url(https://cdn.pixabay.com/photo/2015/07/15/11/53/woodtype-846089_1280.jpg);
+    background-image: url('../img/anton34.jpg');
     height: 75vh;
     background-size:cover;
     background-attachment: fixed;
