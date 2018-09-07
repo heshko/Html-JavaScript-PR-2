@@ -1,0 +1,13 @@
+/* 
+THEME CODER: HISHAM ABULIL
+
+first color::rgb(4, 4, 97);
+secound color:
+
+upper bar
+:background-color::rgb(4, 4, 97);
+padding:10px
+color white
+
+
+*/
